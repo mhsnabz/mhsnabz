@@ -2,9 +2,7 @@
 I'm Mahsun, living in Iskenderun,Turkey. I'm junior software develover.
 - 🔭 I’m currently working on a social media app for university
 - 🌱 I’m currently learning Kotlin & JavaScript
-<h3> Here is my favorites technologies 😄</h3>
-<h3> Here is my favorites technologies </h3>
- 
+<h3> Here is my favorites technologies 😄</h3> 
   
 <p align="left"><img src="https://github.com/mhsnabz/mhsnabz/blob/main/logo/swift.png" alt="express" width="40" height="40"/> 
 <img src="https://github.com/mhsnabz/mhsnabz/blob/main/logo/android.png" alt="react" width="40" height="40"/> 
