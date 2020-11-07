@@ -3,8 +3,10 @@ I'm Mahsun, living in Iskenderun,Turkey. I'm junior software develover.
 - 🔭 I’m currently working on a social media app for university
 - 🌱 I’m currently learning Kotlin & JavaScript
 <h3> Here is my favorites technologies 😄</h3>
-<!--
-**mhsnabz/mhsnabz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> Here is my favorites technologies </h3>
+ 
+  
+<p align="left"><img src="https://github.com/mhsnabz/mhsnabz/blob/main/swift.png" alt="express" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" alt="react" width="40" height="40"/>  
 
 Here are some ideas to get you started:
 
